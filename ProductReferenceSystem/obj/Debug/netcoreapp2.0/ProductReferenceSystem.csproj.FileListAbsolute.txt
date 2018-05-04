@@ -1,0 +1,10 @@
+D:\Code\Visual Studio\ProductReferenceSystem\ProductReferenceSystem\obj\Debug\netcoreapp2.0\ProductReferenceSystem.csproj.CoreCompileInputs.cache
+D:\Code\Visual Studio\ProductReferenceSystem\ProductReferenceSystem\obj\Debug\netcoreapp2.0\ProductReferenceSystem.AssemblyInfoInputs.cache
+D:\Code\Visual Studio\ProductReferenceSystem\ProductReferenceSystem\obj\Debug\netcoreapp2.0\ProductReferenceSystem.AssemblyInfo.cs
+D:\Code\Visual Studio\ProductReferenceSystem\ProductReferenceSystem\bin\Debug\netcoreapp2.0\ProductReferenceSystem.deps.json
+D:\Code\Visual Studio\ProductReferenceSystem\ProductReferenceSystem\bin\Debug\netcoreapp2.0\ProductReferenceSystem.runtimeconfig.json
+D:\Code\Visual Studio\ProductReferenceSystem\ProductReferenceSystem\bin\Debug\netcoreapp2.0\ProductReferenceSystem.runtimeconfig.dev.json
+D:\Code\Visual Studio\ProductReferenceSystem\ProductReferenceSystem\bin\Debug\netcoreapp2.0\ProductReferenceSystem.dll
+D:\Code\Visual Studio\ProductReferenceSystem\ProductReferenceSystem\bin\Debug\netcoreapp2.0\ProductReferenceSystem.pdb
+D:\Code\Visual Studio\ProductReferenceSystem\ProductReferenceSystem\obj\Debug\netcoreapp2.0\ProductReferenceSystem.dll
+D:\Code\Visual Studio\ProductReferenceSystem\ProductReferenceSystem\obj\Debug\netcoreapp2.0\ProductReferenceSystem.pdb
